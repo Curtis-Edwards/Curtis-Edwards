@@ -1,10 +1,6 @@
 ### Hi there 👋
-
-<!--
-**Curtis-Edwards/Curtis-Edwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h1>Hi there 👋</h1>
+<p>My name is Mr. Coxall and I'm the Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
