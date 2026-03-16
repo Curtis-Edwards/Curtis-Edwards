@@ -10,14 +10,15 @@ Currently interested in:
 
 ## Featured Projects
 
-🔹 **Ghost Hunting Simulation**  
-Cumulative C project demonstrating dynamic memory, structure and pointer usage, and a linked list implementation.
+
+🔹 **UltraFast Stack Data Structure**  
+Java data structure project implementing an optimized stack capable of fast range queries and statistics using a custom array-based tree.
 
 🔹 **Law Firm Case Management System**  
 C++ project demonstrating OOP design and memory management.
 
-🔹 **UltraFast Stack Data Structure**  
-Java data structure project implementing an optimized stack capable of fast range queries and statistics using a custom array-based tree.
+🔹 **Ghost Hunting Simulation**  
+Cumulative C project demonstrating dynamic memory, structure and pointer usage, and a linked list implementation.
 
 ## Programming Languages
 
