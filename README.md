@@ -14,7 +14,7 @@ Currently interested in:
 🔹 **UltraFast Stack Data Structure**  
 Java data structure project implementing an optimized stack capable of fast range queries and statistics using a custom array-based tree.
 
-🔹 **Law Firm Case Management System**  
+🔹 Medical Lab Management System**  
 C++ project demonstrating OOP design and memory management.
 
 🔹 **Ghost Hunting Simulation**  
