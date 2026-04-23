@@ -38,3 +38,4 @@ Cumulative C project demonstrating dynamic memory, structure and pointer usage, 
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079D5.svg?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
